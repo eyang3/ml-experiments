@@ -1,0 +1,4 @@
+name: nn_optimization2
+channels:
+  - conda-forge
+prefix: /Users/iamspazzy/miniforge3/envs/nn_optimization2
